@@ -43,8 +43,9 @@ Craft fake popularity:
 ## StarJacking ![Stars](../media/starjacking/stars.png)
 StarJacking refers to the trust that VCS stars provide to a module. 
 
-Reusing the popularity of another project, unrelated to the module, 
-and exploiting the non-verification of the link (metadatas) in order make a module falsely popular.
+By reusing the popularity of another project, unrelated to the module, 
+and exploiting the non-verification of the link (metadata), 
+an attacker can make a module appear much more popular than it actually is.
 
 Other ecosystems like PyPI and NPM are also impacted by this problem.
 
