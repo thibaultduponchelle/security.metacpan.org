@@ -49,7 +49,8 @@ an attacker can make a module appear much more popular than it actually is.
 
 Other ecosystems like PyPI and npm are also impacted by this problem.
 
-Like other ecosystems, we can attach "metadatas" (repository, website, issue tracker...) to CPAN packages.
+Like many other programming language ecosystems, we can attach "metadata" 
+such as a public repository, website and issue tracker URLs to CPAN packages.
 
 It has to be done directly in the release metadata.
 
