@@ -5,7 +5,7 @@ StarJacking is an undertaking to make people prefer a module because of manipula
 While a known topic, checking CPAN for "StarJacking" was mainly the result of the attention drawn to it thanks to experiments from Eugene Rojavski ([EUGENER](https://metacpan.org/author/EUGENER))
 
 ## How to choose what CPAN module to depend on?
-CPAN is vast like an ocean, it's sometimes difficult to make a decision about the best module to use. 
+CPAN has such a huge collection of modules available it's sometimes difficult to make a decision about the best one to use. 
 
 Some lists are available like [Task::Kensho](https://metacpan.org/pod/Task::Kensho), [Awesome Perl](https://github.com/hachiojipm/awesome-perl) or [Awesome Perl](https://github.com/uhub/awesome-perl) (again) but they definitely don't cover all needs.
 
