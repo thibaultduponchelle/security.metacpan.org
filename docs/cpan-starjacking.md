@@ -51,7 +51,7 @@ Other ecosystems like PyPI and npm are also impacted by this problem.
 
 Like other ecosystems, we can attach "metadatas" (repository, website, issue tracker...) to CPAN packages.
 
-It has to be done directly in the release metadatas.
+It has to be done directly in the release metadata.
 
 Example of using resources metadata pointing to a popular project, for instance in `META.yml`
 ```
@@ -69,11 +69,11 @@ META_MERGE   => {
 },
 ```
 
-Read [CPAN add link to version control system](https://perlmaven.com/how-to-add-link-to-version-control-system-of-a-cpan-distributions) for more about how to set the metadatas.
+Read [CPAN add link to version control system](https://perlmaven.com/how-to-add-link-to-version-control-system-of-a-cpan-distributions) for more about how to set the metadata.
 
-CPAN metadatas are effectively un-verified.
+CPAN metadats are effectively unverified.
 
-PyPI now implements a mechanism for verifying metadata with [Project Metadatas Verifications](https://docs.pypi.org/project_metadata/#verified-details):
+PyPI now implements a mechanism for verifying metadata with [Project Metadata Verifications](https://docs.pypi.org/project_metadata/#verified-details):
 
 ![PyPI verified](../media/starjacking/pypi-verified.png)
 
@@ -89,7 +89,7 @@ Only issues are visible, but how can issues help in StarJacking?
 
 Still, we can get more details on metadata by hovering **Repository**:
 
-![GitHub Metadatas in CPAN](../media/starjacking/github.png)
+![GitHub Metadata in CPAN](../media/starjacking/github.png)
 
 As a conclusion, CPAN is not impacted even though CPAN modules can provide inaccurate or incorrect metadata.
 
