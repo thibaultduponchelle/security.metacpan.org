@@ -41,7 +41,7 @@ Craft fake popularity:
 - "RiverJacking" - Manipulate river score
 
 ## StarJacking ![Stars](../media/starjacking/stars.png)
-StarJacking refers to the trust that VCS stars provides to a module. 
+StarJacking refers to the trust that VCS stars provide to a module. 
 
 Reusing the popularity of another project, unrelated to the module, 
 and exploiting the non-verification of the link (metadatas) in order make a module falsely popular.
