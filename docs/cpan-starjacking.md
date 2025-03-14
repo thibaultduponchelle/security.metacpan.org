@@ -47,7 +47,7 @@ By reusing the popularity of another project, unrelated to the module,
 and exploiting the non-verification of the link (metadata), 
 an attacker can make a module appear much more popular than it actually is.
 
-Other ecosystems like PyPI and NPM are also impacted by this problem.
+Other ecosystems like PyPI and npm are also impacted by this problem.
 
 Like other ecosystems, we can attach "metadatas" (repository, website, issue tracker...) to CPAN packages.
 
