@@ -11,7 +11,7 @@ Some lists are available like [Task::Kensho](https://metacpan.org/pod/Task::Kens
 
 Naming of modules can also help, for instance `Mojo::*` modules should be, by convention, mainly using other `Mojo` inner circle modules as dependencies. `*::Tiny` are generally smaller alternative to other modules of the same purpose, etc...
 
-Most of the time and when possible, user will choose modules and authors that have an established "reputation". This reputation gives them authority on a topic, and the trust of users in term of security.
+Most of the time and when possible, users will choose modules and authors that have an established "reputation". This reputation gives them authority on a topic, and the trust of users in term of security.
 
 On top of that, some indicators of quality (build reports and known problems) and activity (maintainance) can be taken into account.
 
