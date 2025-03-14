@@ -80,7 +80,7 @@ Or it can warn you about metadata information being "unverified":
 
 ![PyPI unverified](../media/starjacking/pypi-unverified.png)
 
-Back to (Meta)CPAN, the outcome is that GitHub/Gitlab/... numbers are almost invisible in MetaCPAN. For instance, for a module with more than 200 stars in GitHub:
+Back to MetaCPAN, the outcome is that GitHub/Gitlab/... numbers are almost invisible in MetaCPAN. For instance, for a module with more than 200 stars in GitHub:
 
 ![GitHub numbers in MetaCPAN](../media/starjacking/metacpan-side.png)
 
@@ -92,7 +92,7 @@ Still, we can get more details on metadata by hovering **Repository**:
 
 As a conclusion, CPAN is not impacted even though CPAN modules can provide inaccurate or incorrect metadata.
 
-It's because GitHub's popularity is not strongly enough propagated to (Meta)CPAN, so lying on metadata (in a particular repository) does not bring any real advantage over other modules.
+It's because GitHub's popularity is not strongly enough propagated to MetaCPAN, so lying on metadata (in a particular repository) does not bring any real advantage over other modules.
 
 ## PlusPlusJacking ![PlusPlus](../media/starjacking/plusplus.png)
 MetaCPAN package popularity uses an independant indicator, the "++" (PlusPlus).
@@ -134,7 +134,7 @@ WriteMakefile(%WriteMakefileArgs);
 ```
 
 ## Conclusion
-CPAN is not vulnerable to StarJacking, because VCS stars are not helping the popularity of a module in (Meta)CPAN.
+CPAN is not vulnerable to StarJacking, because VCS stars are not helping the popularity of a module in MetaCPAN.
 
 Manipulating popularity via other CPAN in-house indicators is possible but not easy to implement.
 
