@@ -32,14 +32,6 @@ Some other indicators can help in the choice but give more informations about *q
 - Bus factor
 ![Bus factor](../media/starjacking/bus.png)
 
-## Types of attacks
-Link popular repository:
-- "StarJacking" - Attach very popular github repository to module
-
-Craft fake popularity:
-- "PlusPlusJacking" - Manipulate ++ indicator
-- "RiverJacking" - Manipulate river score
-
 ## StarJacking ![Stars](../media/starjacking/stars.png)
 StarJacking refers to the trust that VCS stars provide to a module. 
 
