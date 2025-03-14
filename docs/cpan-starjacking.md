@@ -15,7 +15,7 @@ Most of the time and when possible, users will choose modules and authors that h
 
 On top of that, some indicators of quality (build reports and known problems) and activity (maintainance) can be taken into account.
 
-## Popularity indicators in CPAN
+## Popularity indicators with CPAN
 Beyond reputation (module and/or author), MetaCPAN provides some popularity indicators for CPAN modules:
 - ++
 ![plusplus](../media/starjacking/plusplus.png)
