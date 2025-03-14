@@ -104,7 +104,7 @@ Manipulation of a PlusPlus score is possible but not cheap: it require creation 
 And creations of authors requires a [request](https://pause.perl.org/pause/query?ACTION=request_id) and [manual acceptance](https://www.nntp.perl.org/group/perl.modules/2024/11/msg105533.html) by CPAN admins.
 
 ## RiverJacking ![River](../media/starjacking/river.png)
-The river score appears next to module name in several places:
+The river score appears next to the module name in several places:
 
 ![River score](../media/starjacking/riverscore.png)
 
