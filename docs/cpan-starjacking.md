@@ -108,7 +108,7 @@ The river score appears next to the module name in several places:
 
 ![River score](../media/starjacking/riverscore.png)
 
-The River can be manipulated, by just making fake modules that depend on the module.
+The River can be manipulated by just making fake modules that depend on the module.
 
 Improving the river score of a module is relatively cheap (possible with one single author with multiple modules).
 
