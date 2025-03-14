@@ -32,8 +32,6 @@ Some other indicators can help in the choice but give more informations about *q
 - Bus factor
 ![Bus factor](../media/starjacking/bus.png)
 
-Interpretation of indicators "issues" and "bus factor" is debatable.
-
 ## Types of attacks
 Link popular repository:
 - "StarJacking" - Attach very popular github repository to module
